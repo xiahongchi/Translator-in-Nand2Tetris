@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628354726 source:d:\computerscience\nand2tetris\nand2tetris\projects\06\translator\main.cpp
+	<stdio.h>
+	<cstring>
+
